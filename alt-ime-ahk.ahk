@@ -126,3 +126,9 @@ RAlt up::
         IME_SET(1)
     }
     Return
+
+; 左Winキーを左Ctrlキーとして使用
+LWin::LCtrl
+
+; 左Ctrlキーを左Winキーとして使用
+LCtrl::LWin
