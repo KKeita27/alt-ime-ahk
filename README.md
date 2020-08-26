@@ -9,3 +9,4 @@ modified by Keita Kanno
 * 右 Alt キーの空打ちで IME を「かな」に切り替え
 * Alt キーを押している間に他のキーを打つと通常の Alt キーとして動作
 * (追加) 左WinキーもLCtrlキーとして扱う
+* (追加) 左Alt+VをWin+Vとして扱う

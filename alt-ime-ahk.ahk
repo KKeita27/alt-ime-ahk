@@ -11,6 +11,11 @@
 ; Razer Synapseなど、キーカスタマイズ系のツールを併用しているときのエラー対策
 #MaxHotkeysPerInterval 350
 
+; Win+Vを左Alt+Vで代用
+<!v::
+    Send #v
+    Return
+
 ; 主要なキーを HotKey に設定し、何もせずパススルーする
 *~a::
 *~b::
@@ -33,7 +38,7 @@
 *~s::
 *~t::
 *~u::
-*~v::
+;*~v::
 *~w::
 *~x::
 *~y::
