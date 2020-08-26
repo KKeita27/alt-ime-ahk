@@ -131,4 +131,4 @@ RAlt up::
 LWin::LCtrl
 
 ; 左Ctrlキーを左Winキーとして使用
-LCtrl::LWin
+; LCtrl::LWin

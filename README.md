@@ -8,4 +8,4 @@ modified by Keita Kanno
 * 左 Alt キーの空打ちで IME を「英数」に切り替え
 * 右 Alt キーの空打ちで IME を「かな」に切り替え
 * Alt キーを押している間に他のキーを打つと通常の Alt キーとして動作
-* (追加) WindowsキーとCtrlキーを入れ替え
+* (追加) 左WinキーもLCtrlキーとして扱う
